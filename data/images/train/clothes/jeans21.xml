@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jeans</folder>
+	<filename>jeans21.jpeg</filename>
+	<path>/home/st01/Desktop/jeans/jeans21.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>10</ymin>
+			<xmax>147</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
