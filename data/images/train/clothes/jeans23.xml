@@ -1,26 +1,26 @@
 <annotation>
 	<folder>jeans</folder>
-	<filename>jeans-296.jpg</filename>
-	<path>/Users/ravisiswaliya/Desktop/Work/web-scrap/img-download/jeans/jeans-296.jpg</path>
+	<filename>jeans23.jpg</filename>
+	<path>/home/st01/Desktop/jeans/jeans23.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>124</width>
-		<height>320</height>
+		<width>1068</width>
+		<height>1068</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>jeans</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>13</ymin>
-			<xmax>124</xmax>
-			<ymax>273</ymax>
+			<xmin>378</xmin>
+			<ymin>159</ymin>
+			<xmax>686</xmax>
+			<ymax>877</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>jeans</folder>
-	<filename>jeans-251.jpg</filename>
-	<path>/Users/ravisiswaliya/Desktop/Work/web-scrap/img-download/jeans/jeans-251.jpg</path>
+	<filename>jeans21.jpg</filename>
+	<path>/home/st01/Desktop/jeans/jeans21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>130</width>
-		<height>320</height>
+		<width>400</width>
+		<height>660</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
-			<ymin>20</ymin>
-			<xmax>113</xmax>
-			<ymax>254</ymax>
+			<xmin>115</xmin>
+			<ymin>6</ymin>
+			<xmax>325</xmax>
+			<ymax>523</ymax>
 		</bndbox>
 	</object>
 </annotation>
